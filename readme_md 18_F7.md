@@ -47,4 +47,4 @@ This map isolates grid squares where the resident density per sports field falls
 
 ### 4. Strategic Proposals
 Based on the analysis, strategic locations (indicated by yellow arrows) have been proposed for new sports fields. Developing these specific sites would maximize accessibility, reduce the load on existing infrastructure, and specifically address the severe deficit in the south-eastern sector of the study area.
-![Strategic Proposals](Mapa propozycji.jpg)
+![Strategic Proposals](Mapa_propozycji.jpg)
