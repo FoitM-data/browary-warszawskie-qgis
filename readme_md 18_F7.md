@@ -34,17 +34,17 @@ To ensure a high-quality analysis, several data processing steps were implemente
 
 ### 1. Current Accessibility
 The map below illustrates the pedestrian accessibility (400m buffer) of currently existing sports fields.
-![Current Accessibility](image_d21616.jpg)
+![Current Accessibility](image_d21616.png)
 
 ### 2. Projected Demand (2030)
 This map highlights the accessibility of sports fields based on a ratio of 1 field per 5,000 residents projected for 2030. 
 **Conclusion:** The overall accessibility in the study area is inadequate. Existing fields risk severe user overload by 2030. While some adequately serviced areas exist, they are heavily outweighed by the deficient zones (marked in red).
-![2030 Projection](image_d21274.jpg)
+![2030 Projection](image_d21274.png)
 
 ### 3. Land Suitability & Deficit Areas
 This map isolates grid squares where the resident density per sports field falls below the 5,000 threshold. The yellow areas represent spaces potentially suitable for new construction. Because the study area is in the densely built center of Warsaw, there is a lack of completely undeveloped land. Therefore, the highlighted areas are primarily *brownfields* requiring reclamation.
-![Suitability Map](image_d21230.jpg)
+![Suitability Map](image_d21230.png)
 
 ### 4. Strategic Proposals
 Based on the analysis, strategic locations (indicated by yellow arrows) have been proposed for new sports fields. Developing these specific sites would maximize accessibility, reduce the load on existing infrastructure, and specifically address the severe deficit in the south-eastern sector of the study area.
-![Strategic Proposals](Mapa_propozycji.jpg)
+![Strategic Proposals](Mapa_propozycji.png)
